@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 - 🔭 I’m currently working on [EstivaSoftech Website](https://www.estivasoftech.com/)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python , TypeScript**
 
 - 👨‍💻 My Projects [DigiTechMate Website](https://www.digitechmate.com/)
 
